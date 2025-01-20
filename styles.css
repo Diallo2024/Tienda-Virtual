@@ -222,7 +222,7 @@
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 780px) {
     .logo-container {
         flex-direction: column;
     }
